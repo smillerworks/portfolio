@@ -5,7 +5,7 @@ url: "https://smillerworks.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 title: Sarah Miller                                   # site's title
 description: "My game development portfolio representing four years of work"      # used by search engines
-avatar: assets/img/suggs_icon_round.png                     # Empty for no avatar in navbar
+avatar: assets/img/black&yellowshapes.jpg                    # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
