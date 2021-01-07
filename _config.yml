@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/porto"
+baseurl: "/portfolio"
 url: "https://smillerworks.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
