@@ -28,6 +28,12 @@ google_analytics:                                       # Tracking ID, e.g. "UA-
 cookie_consent: false                                   # To respect the usage of cookies
 disqus_shortname:                                       # Your discus shortname for comments
 
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
