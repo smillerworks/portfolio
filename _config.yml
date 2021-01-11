@@ -14,9 +14,9 @@ header_feature_image: assets/img/black&yellowshapes.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
   <br>
-  smillerworks@protonmail.com
+  <b>smillerworks@protonmail.com</b>
   <br>
-  (xxx) xxx-xxxx
+  <b>(xxx) xxx-xxxx</b>
 
 # Features
 # More in the _data folder for social icons, share buttons, author and language
