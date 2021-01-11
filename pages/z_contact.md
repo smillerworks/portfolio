@@ -11,9 +11,7 @@ feature-img: "assets/img/black&yellowshapes.jpg"
 <div align="center">
 <b>Phone:</b> (xxx) xxx-xxx
 </div>
-
-  
-
 <div align="center">
-<b> Email is preferred! </b>
+  <br>
+  <b> Email is preferred! </b>
 </div>
