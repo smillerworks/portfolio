@@ -5,3 +5,5 @@ img: "assets/img/portfolio/github.png"
 ---
 
 This is the page for: MOCK GENETIC ALGORITHM
+
+NOVEMBER 2020
