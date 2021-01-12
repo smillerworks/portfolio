@@ -7,4 +7,4 @@ img: "assets/img/portfolio/cake.png"
 
 This is the page for: GHOTIBOT
 
-September 2020
+SEPTEMBER 2020
