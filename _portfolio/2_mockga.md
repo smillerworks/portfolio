@@ -4,6 +4,8 @@ title: MOCK Genetic Algorithm
 img: "assets/img/portfolio/github.png"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGnYeHGsu38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This is the page for: MOCK GENETIC ALGORITHM
 
 NOVEMBER 2020
