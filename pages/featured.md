@@ -23,5 +23,3 @@ This is Mr. Sushi, a mobile game for Android devices, made by myself and Nick Ho
 SPACE+CTRL DEMO HERE
 
 SPACE+CTRL was a side project I completed to fulfill an Honors Contract while in an educational/serious game design course in the spring of 2020. I made this project entirely by myself, including sound and asset creation (except for the font!). The idea behind the game is to teach players how to type and to practice typing quickly. While this game is complete in its current state, it doesn't have much content; originally I planned for more stages and difficulties. Instead I opted to include a normal typing test mode separate from the game. I don't currently have plans to continue working on this game, but it is a possibility for the future.
-
-This is the page for: DEAD ENGINES, MR. SUSHI, SPACE+CTRL
