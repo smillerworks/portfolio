@@ -9,7 +9,7 @@ feature-img: "assets/img/black&yellowshapes.jpg"
 </div>
 
 <div align="center">
-<b>Phone:</b> (xxx) xxx-xxx
+<b>Phone:</b> (678) 662-0804
 </div>
 <div align="center">
   <br>
