@@ -12,7 +12,7 @@ feature-img: "assets/img/black&yellowshapes.jpg"
 <br>
 I am the co-creator of Dead Engines, the project made by myself and my Studio partner Nick Horsma over the course of fall 2020 and spring 2021. Dead Engines is a game about human survivors living in an ancient war automaton, repairing its functionality, and battling against other war machines while uncovering secrets about humanity's dangerous past. I mainly worked on designing and implementing the game's inner systems as well as user interface. Some inner systems included the resource spawning algorithm and room coordination. Nick worked on enemy and unit AI, controls, 3D modeling, and 2D asset creation.
 
-We created the game in Unity 2019.0.f14 over the course of two semesters. We had to provide updates on our progress every other week in a group setting. The game is programmed entirely in C#.
+We created the game in Unity over the course of two semesters. We had to provide updates on our progress every other week in a group setting. The game is programmed entirely in C#.
 
 The most challenging component of the project was definetely finding acceptable ways to manage the sheer amount of UI as well as the depth of our game's systems. I reworked major parts of the code multiple times in order to make it more readable, maintainable, and independent. If we worked on this project again, we would start from scratch and take our experience from the first attempt to make the next attempt better.
 
