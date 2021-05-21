@@ -14,7 +14,7 @@ I am the co-creator of Dead Engines, the project made by myself and my Studio pa
 
 We created the game in Unity over the course of two semesters. We had to provide updates on our progress every other week in a group setting. The game is programmed entirely in C#.
 
-The most challenging component of the project was definetely finding acceptable ways to manage the sheer amount of UI as well as the depth of our game's systems. I reworked major parts of the code multiple times in order to make it more readable, maintainable, and independent. If we worked on this project again, we would start from scratch and take our experience from the first attempt to make the next attempt better.
+The most challenging component of the project was definitely finding acceptable ways to manage the sheer amount of UI as well as the depth of our game's systems. I reworked major parts of the code multiple times in order to make it more readable, maintainable, and independent. If we worked on this project again, we would start from scratch and take our experience from the first attempt to make the next attempt better.
 
 
 <h1>Mr. Sushi: A Casual Game for Android</h1>
